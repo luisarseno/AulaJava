@@ -1,4 +1,3 @@
-package exercicio2;
 
 public class ContaCorrente {
 
